@@ -1,0 +1,11 @@
+/Users/cryhard/cryhardov.TaskPlanner/cryhardov.TaskPlanner.Domain.Models/bin/Debug/net8.0/cryhardov.TaskPlanner.Domain.Models.deps.json
+/Users/cryhard/cryhardov.TaskPlanner/cryhardov.TaskPlanner.Domain.Models/bin/Debug/net8.0/cryhardov.TaskPlanner.Domain.Models.dll
+/Users/cryhard/cryhardov.TaskPlanner/cryhardov.TaskPlanner.Domain.Models/bin/Debug/net8.0/cryhardov.TaskPlanner.Domain.Models.pdb
+/Users/cryhard/cryhardov.TaskPlanner/cryhardov.TaskPlanner.Domain.Models/obj/Debug/net8.0/cryhardov.TaskPlanner.Domain.Models.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cryhard/cryhardov.TaskPlanner/cryhardov.TaskPlanner.Domain.Models/obj/Debug/net8.0/cryhardov.TaskPlanner.Domain.Models.AssemblyInfoInputs.cache
+/Users/cryhard/cryhardov.TaskPlanner/cryhardov.TaskPlanner.Domain.Models/obj/Debug/net8.0/cryhardov.TaskPlanner.Domain.Models.AssemblyInfo.cs
+/Users/cryhard/cryhardov.TaskPlanner/cryhardov.TaskPlanner.Domain.Models/obj/Debug/net8.0/cryhardov.TaskPlanner.Domain.Models.csproj.CoreCompileInputs.cache
+/Users/cryhard/cryhardov.TaskPlanner/cryhardov.TaskPlanner.Domain.Models/obj/Debug/net8.0/cryhardov.TaskPlanner.Domain.Models.dll
+/Users/cryhard/cryhardov.TaskPlanner/cryhardov.TaskPlanner.Domain.Models/obj/Debug/net8.0/refint/cryhardov.TaskPlanner.Domain.Models.dll
+/Users/cryhard/cryhardov.TaskPlanner/cryhardov.TaskPlanner.Domain.Models/obj/Debug/net8.0/cryhardov.TaskPlanner.Domain.Models.pdb
+/Users/cryhard/cryhardov.TaskPlanner/cryhardov.TaskPlanner.Domain.Models/obj/Debug/net8.0/ref/cryhardov.TaskPlanner.Domain.Models.dll

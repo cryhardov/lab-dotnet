@@ -1,0 +1,56 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "cryhardov.TaskPlanner/1.0.0": {
+        "dependencies": {
+          "cryhardov.TaskPlanner.Domain.Logic": "1.0.0",
+          "cryhardov.TaskPlanner.Domain.Models": "1.0.0"
+        },
+        "runtime": {
+          "cryhardov.TaskPlanner.dll": {}
+        }
+      },
+      "cryhardov.TaskPlanner.Domain.Logic/1.0.0": {
+        "dependencies": {
+          "cryhardov.TaskPlanner.Domain.Models": "1.0.0"
+        },
+        "runtime": {
+          "cryhardov.TaskPlanner.Domain.Logic.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "cryhardov.TaskPlanner.Domain.Models/1.0.0": {
+        "runtime": {
+          "cryhardov.TaskPlanner.Domain.Models.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "cryhardov.TaskPlanner/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "cryhardov.TaskPlanner.Domain.Logic/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "cryhardov.TaskPlanner.Domain.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

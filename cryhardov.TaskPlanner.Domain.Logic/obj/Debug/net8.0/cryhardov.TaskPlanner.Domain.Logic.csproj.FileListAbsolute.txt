@@ -1,0 +1,15 @@
+/Users/cryhard/cryhardov.TaskPlanner/cryhardov.TaskPlanner.Domain.Logic/bin/Debug/net8.0/cryhardov.TaskPlanner.Domain.Logic.deps.json
+/Users/cryhard/cryhardov.TaskPlanner/cryhardov.TaskPlanner.Domain.Logic/bin/Debug/net8.0/cryhardov.TaskPlanner.Domain.Logic.dll
+/Users/cryhard/cryhardov.TaskPlanner/cryhardov.TaskPlanner.Domain.Logic/bin/Debug/net8.0/cryhardov.TaskPlanner.Domain.Logic.pdb
+/Users/cryhard/cryhardov.TaskPlanner/cryhardov.TaskPlanner.Domain.Logic/bin/Debug/net8.0/cryhardov.TaskPlanner.Domain.Models.dll
+/Users/cryhard/cryhardov.TaskPlanner/cryhardov.TaskPlanner.Domain.Logic/bin/Debug/net8.0/cryhardov.TaskPlanner.Domain.Models.pdb
+/Users/cryhard/cryhardov.TaskPlanner/cryhardov.TaskPlanner.Domain.Logic/obj/Debug/net8.0/cryhardov.TaskPlanner.Domain.Logic.csproj.AssemblyReference.cache
+/Users/cryhard/cryhardov.TaskPlanner/cryhardov.TaskPlanner.Domain.Logic/obj/Debug/net8.0/cryhardov.TaskPlanner.Domain.Logic.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cryhard/cryhardov.TaskPlanner/cryhardov.TaskPlanner.Domain.Logic/obj/Debug/net8.0/cryhardov.TaskPlanner.Domain.Logic.AssemblyInfoInputs.cache
+/Users/cryhard/cryhardov.TaskPlanner/cryhardov.TaskPlanner.Domain.Logic/obj/Debug/net8.0/cryhardov.TaskPlanner.Domain.Logic.AssemblyInfo.cs
+/Users/cryhard/cryhardov.TaskPlanner/cryhardov.TaskPlanner.Domain.Logic/obj/Debug/net8.0/cryhardov.TaskPlanner.Domain.Logic.csproj.CoreCompileInputs.cache
+/Users/cryhard/cryhardov.TaskPlanner/cryhardov.TaskPlanner.Domain.Logic/obj/Debug/net8.0/cryhardo.CAAD9FA2.Up2Date
+/Users/cryhard/cryhardov.TaskPlanner/cryhardov.TaskPlanner.Domain.Logic/obj/Debug/net8.0/cryhardov.TaskPlanner.Domain.Logic.dll
+/Users/cryhard/cryhardov.TaskPlanner/cryhardov.TaskPlanner.Domain.Logic/obj/Debug/net8.0/refint/cryhardov.TaskPlanner.Domain.Logic.dll
+/Users/cryhard/cryhardov.TaskPlanner/cryhardov.TaskPlanner.Domain.Logic/obj/Debug/net8.0/cryhardov.TaskPlanner.Domain.Logic.pdb
+/Users/cryhard/cryhardov.TaskPlanner/cryhardov.TaskPlanner.Domain.Logic/obj/Debug/net8.0/ref/cryhardov.TaskPlanner.Domain.Logic.dll
